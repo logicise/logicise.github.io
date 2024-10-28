@@ -1,5 +1,1 @@
-$ dig WWW.LOGICISE.AI +nostats +nocomments +nocmd
-> ;WWW.LOGICISE.AI.                    IN      A
-> WWW.LOGICISE.AI.             3592    IN      CNAME   LOGICISE.github.io.
-> LOGICISE.github.io.      43192   IN      CNAME   GITHUB-PAGES-SERVER .
-> GITHUB-PAGES-SERVER .         22      IN      A       192.0.2.1
+logicise.ai
