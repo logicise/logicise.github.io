@@ -1,0 +1,10 @@
+# *
+User-agent: *
+Allow: /
+Disallow: /blog
+
+# Host
+Host: https://logicise.ai
+
+# Sitemaps
+Sitemap: https://logicise.ai/sitemap.xml
