@@ -1,7 +1,6 @@
 # *
 User-agent: *
 Allow: /
-Disallow: /blog
 
 # Host
 Host: https://logicise.ai
